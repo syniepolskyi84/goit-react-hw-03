@@ -1,0 +1,18 @@
+.div{
+    position: relative;
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.btn{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    bottom: 0;
+    width: auto;
+    height: 25px;
+}
+.p{
+    margin: 0;
+}
